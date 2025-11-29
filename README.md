@@ -10,11 +10,11 @@ I'm Techist, a Tech Enthusiast, Developer, Learner.
 
 ~ Languages:
 
-C · C++ · Java · Python
+C  ·  C++  ·  Java  ·  Python
 
 ~ Tools & Platforms:
 
-Linux · Git · VS Code . IntelliJ
+Linux  ·  Git  ·  VS Code  .  IntelliJ
 
 ~ Ending Notes:
 
