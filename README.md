@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there....
 
-<!--
-**techistt/techistt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Techist, a Tech Enthusiast, Developer, Learner.
 
-Here are some ideas to get you started:
+~ Developer who loves building small tech projects for fun — completed 100+ private mini-projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+~ Enjoy learning through experimentation and hands-on work.
+
+~ I like exploring new ideas, solving practical problems, and improving my skills one project at a time.
+
+~ Languages:
+
+C · C++ · Java · Python
+
+~ Tools & Platforms:
+
+Linux · Git · VS Code . IntelliJ
+
+~ Ending Notes:
+
+~Always learning.
+
+~Always building.
+
+~Always improving.
+
+Thanks for visiting my profile! 
