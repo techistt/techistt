@@ -13,6 +13,8 @@ Languages
 ~ Java
 ~ Python
 ~ JavaScript
+~ TypeScript
+~ Rust
 
 Web & Frontend Technologies
 
@@ -23,6 +25,7 @@ Web & Frontend Technologies
 Databases
 
 ~ MySQL
+~ MongoDB
 
 Tools & Platforms
 
