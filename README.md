@@ -35,6 +35,8 @@ Tools & Platforms
 ~ IntelliJ IDEA
 ~ PyCharm
 ~ CLion
+~ Google Cloud Platform (GCP)
+~ Google Kubernetes Engine (GKE)
 
 Ending Notes
 
