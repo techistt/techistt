@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=techistt&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/techistt?style=for-the-badge&logo=github&color=24292e" alt="Followers" />
+<!-- <img src="https://img.shields.io/github/followers/techistt?style=for-the-badge&logo=github&color=24292e" alt="Followers" /> -->
 <img src="https://img.shields.io/badge/Mini--Projects-100%2B-blueviolet?style=for-the-badge" alt="100+ mini-projects" />
 
 </div>
@@ -45,18 +45,23 @@ techist — developer, tinkerer, lifelong learner
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=7" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&perline=7" alt="Databases" />
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,idea,pycharm,clion,gcp,kubernetes&perline=8" alt="Tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,cursor,idea,pycharm,clion,postman,gcp,kubernetes&perline=10" alt="Tools and platforms" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
 </p>
 
 <sub>☁️ Cloud: Google Cloud Platform (GCP) · Google Kubernetes Engine (GKE)</sub>
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -69,8 +74,7 @@ techist — developer, tinkerer, lifelong learner
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=techistt&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 
 </div>
-
----
+-->
 
 ## 🤝 Connect
 
