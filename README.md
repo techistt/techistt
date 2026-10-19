@@ -1,16 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Techist&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Enthusiast%20%C2%B7%20Developer%20%C2%B7%20Learner&descSize=18&descAlignY=60" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Techist&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Tech%20Enthusiast%20%C2%B7%20Developer%20%C2%B7%20Learner&descSize=20&descAlignY=62" alt="Header banner" />
 
 <a href="https://github.com/techistt">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+small+projects+for+fun;100%2B+mini-projects+and+counting;Learning+by+experimenting;Always+learning.+Always+building.+Always+improving." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&repeat=true&width=720&height=60&lines=%E2%9D%AF+Building+small+tech+projects+for+fun;%E2%9D%AF+Learning+through+hands-on+experiments;%E2%9D%AF+Turning+ideas+into+working+code;%E2%9D%AF+Always+learning.+Always+building.+Always+improving." alt="Typing animation" />
 </a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=techistt&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-<!-- <img src="https://img.shields.io/github/followers/techistt?style=for-the-badge&logo=github&color=24292e" alt="Followers" /> -->
-<img src="https://img.shields.io/badge/Mini--Projects-100%2B-blueviolet?style=for-the-badge" alt="100+ mini-projects" />
 
 </div>
 
@@ -54,7 +48,11 @@ techist — developer, tinkerer, lifelong learner
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cursor/white">
+    <img src="https://cdn.simpleicons.org/cursor/black" alt="Cursor" height="40" align="absmiddle" />
+  </picture>
+  &nbsp;
   <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
 </p>
 
