@@ -50,10 +50,11 @@ techist — developer, tinkerer, lifelong learner
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,cursor,idea,pycharm,clion,postman,gcp,kubernetes&perline=10" alt="Tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,idea,pycharm,clion,postman,gcp,kubernetes&perline=9" alt="Tools and platforms" />
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
 </p>
 
