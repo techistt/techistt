@@ -44,7 +44,7 @@ techist — developer, tinkerer, lifelong learner
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,idea,pycharm,clion,postman,gcp,kubernetes&perline=9" alt="Tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,idea,pycharm,clion,postman&perline=7" alt="Tools and platforms" />
 </p>
 
 <p>
@@ -52,11 +52,9 @@ techist — developer, tinkerer, lifelong learner
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cursor/white">
     <img src="https://cdn.simpleicons.org/cursor/black" alt="Cursor" height="40" align="absmiddle" />
   </picture>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+  &nbsp;&nbsp;
+  <img src="antigravity.svg" alt="Google Antigravity" height="40" align="absmiddle" />
 </p>
-
-<sub>☁️ Cloud: Google Cloud Platform (GCP) · Google Kubernetes Engine (GKE)</sub>
 
 ---
 
@@ -75,26 +73,12 @@ techist — developer, tinkerer, lifelong learner
 </div>
 -->
 
-## 🤝 Connect
-
-<div align="center">
-
-<a href="https://github.com/techistt">
-  <img src="https://img.shields.io/badge/GitHub-techistt-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<!-- Add more links here, e.g. LinkedIn, X/Twitter, email, portfolio -->
-
-</div>
-
----
-
 <div align="center">
 
 ### 💭 *Always learning. Always building. Always improving.*
 
 Thanks for visiting my profile! If you like what you see, drop a ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=180&section=footer&text=Keep%20Building%20%E2%9C%A8&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=65" alt="Footer banner" />
 
 </div>
