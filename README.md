@@ -53,7 +53,7 @@ techist — developer, tinkerer, lifelong learner
     <img src="https://cdn.simpleicons.org/cursor/black" alt="Cursor" height="40" align="absmiddle" />
   </picture>
   &nbsp;&nbsp;
-  <img src="antigravity.svg" alt="Google Antigravity" height="40" align="absmiddle" />
+  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" alt="Google Antigravity" height="40" align="absmiddle" />
 </p>
 
 ---
