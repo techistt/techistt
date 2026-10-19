@@ -75,10 +75,8 @@ techist — developer, tinkerer, lifelong learner
 
 <div align="center">
 
-### 💭 *Always learning. Always building. Always improving.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=00F5FF&background=00000000&center=true&vCenter=true&repeat=true&width=640&height=50&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;If+you+like+what+you+see%2C+drop+a+%E2%AD%90;Let's+build+something+awesome+together+%F0%9F%9A%80" alt="Footer typing animation" />
 
-Thanks for visiting my profile! If you like what you see, drop a ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=180&section=footer&text=Keep%20Building%20%E2%9C%A8&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=65" alt="Footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=footer&text=Always%20Learning%20%C2%B7%20Building%20%C2%B7%20Improving&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=62" alt="Footer wave banner" />
 
 </div>
